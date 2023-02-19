@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "ktz-master",
+  "repo": "container-2gh9ebm",
+  "name": "ktz-master",
+}
